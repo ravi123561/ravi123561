@@ -1,5 +1,4 @@
-
-
+![logo](https://github.com/ravi123561/ravi123561/blob/main/Image%20Apr%2016%2C%202025%2C%2011_14_01%20AM.png)
 
 
 <h1 align="center">Hi 👋, I'm Ravi Kant Tiwari</h1>
